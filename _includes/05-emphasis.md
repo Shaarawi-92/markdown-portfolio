@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Honey*
+_Frenchi_
+*Ahorita ya estoy __haciendo lo que debia__ *
+_One two **three**_
+**Kiubo**
+__Café__
